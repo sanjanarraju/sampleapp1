@@ -1,0 +1,5 @@
+fastapi
+pydantic
+typing
+mysql-connector-python  # for MySQL
+uvicorn  # for running the FastAPI application
